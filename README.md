@@ -1,8 +1,8 @@
 ## RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone (WACV 2025)
 
-Mustafa Munir, Md Mostafijur Rahman, Radu Marculescu
+Mustafa Munir, Md Mostafijur Rahman, and Radu Marculescu
 
-[Arxiv](https://arxiv.org/abs/2412.10995)
+[PDF](https://openaccess.thecvf.com/content/WACV2025/html/Munir_RapidNet_Multi-Level_Dilated_Convolution_Based_Mobile_Backbone_WACV_2025_paper.html) | [Arxiv](https://arxiv.org/abs/2412.10995)
 
 # Overview
 This repository contains the source code for RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone
@@ -111,11 +111,13 @@ python -m torch.distributed.launch --nproc_per_node 2 --nnodes 1 --node_rank 0 t
 If our code or models help your work, please cite MobileViG (CVPRW 2023) and RapidNet (WACV 2025):
 
 ```
-@article{RapidNet_2025,
-  title={RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone},
-  author={Munir, Mustafa and Rahman, Md Mostafijur and Marculescu, Radu},
-  journal={arXiv preprint arXiv:2412.10995},
-  year={2024}
+@InProceedings{RapidNet_2025_WACV,
+    author    = {Munir, Mustafa and Rahman, Md Mostafijur and Marculescu, Radu},
+    title     = {RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {8291-8301}
 }
 ```
 
