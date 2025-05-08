@@ -4,6 +4,8 @@ Mustafa Munir, Md Mostafijur Rahman, and Radu Marculescu
 
 [PDF](https://openaccess.thecvf.com/content/WACV2025/html/Munir_RapidNet_Multi-Level_Dilated_Convolution_Based_Mobile_Backbone_WACV_2025_paper.html) | [Arxiv](https://arxiv.org/abs/2412.10995)
 
+[GAIN 2025 Best Poster Award](https://sites.utexas.edu/gain/gain-2025-winners/)
+
 # Overview
 This repository contains the source code for RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone
 
